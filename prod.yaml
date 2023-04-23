@@ -1,0 +1,8 @@
+appEnv: prod
+blockchains:
+  eth:
+    name: Ethererum
+    networks: ["Mainnet"]
+  bsc:
+    name: BSC
+    networks: ["Mainnet"]

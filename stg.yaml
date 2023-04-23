@@ -1,0 +1,8 @@
+appEnv: stg
+blockchains:
+  eth:
+    name: Ethererum
+    networks: ["Goerli", "Sepolia"]
+  bsc:
+    name: BSC
+    networks: ["Testnet"]
